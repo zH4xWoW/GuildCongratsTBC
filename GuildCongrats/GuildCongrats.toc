@@ -1,0 +1,11 @@
+## Interface: 20505
+## Title: |cff00aeffGuild|r|cFFDDDDDDCongrats|r|cff20a30fTBC|r
+## IconTexture: Interface/Addons/GuildCongrats/art/gc-big
+## Notes: Guild level-up and attunement completion congratulations messages with flavor, tips, and roasts.|n|n|cffbbbbbbBy Zanzo (Ronowar-Dreamscythe)|r
+## Author: Zanzo (Ronowar-Dreamscythe)
+## Version: 1.3.3
+## Category: Guild
+
+## SavedVariables: GCongratsDB
+
+GuildCongrats.lua
